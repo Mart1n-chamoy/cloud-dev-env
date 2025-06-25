@@ -1,0 +1,11 @@
+resources:
+  - apps/cart
+  - apps/checkout
+  - apps/email
+  - apps/productcatalog
+  - apps/recommendation
+  - apps/currency
+  - apps/ad
+  - apps/payment
+  - apps/shipping
+  - apps/frontend
